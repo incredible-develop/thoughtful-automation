@@ -1,0 +1,16 @@
+{
+    "name": "package-sorter",
+    "version": "1.0.0",
+    "description": "A package sorting system for robotic automation",
+    "main": "packageSorter.js",
+    "scripts": {
+        "test": "node packageSorter.test.js"
+    },
+    "keywords": [
+        "automation",
+        "sorting",
+        "packages"
+    ],
+    "author": "",
+    "license": "ISC"
+}
