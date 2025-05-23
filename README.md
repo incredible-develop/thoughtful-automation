@@ -65,7 +65,3 @@ The function returns a string indicating the appropriate stack:
 The function includes input validation for:
 - Non-numeric inputs
 - Negative or zero values
-
-## License
-
-ISC 
